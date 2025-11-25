@@ -7,7 +7,7 @@ from datetime import datetime
 
 TARIFA = 5000
 CAPACIDAD_MAXIMA = 35
-COSTO_FIJO = 6000  # ✅ AGREGADO: Costo fijo por viaje
+COSTO_FIJO = 6000  
 
 # ===========================================================
 #                  SISTEMA PRINCIPAL
@@ -180,5 +180,6 @@ class SistemaTransporte:
         for k, v in reporte.items():
             print(f"{k}: {v}")
         print()
+
 
 
