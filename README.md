@@ -42,6 +42,11 @@ Proyecto_Transporte/
 │   ├── sistemaPrincipal.py           # Lógica del sistema de transporte
 │   └── menuPrincipal.py              # Interfaz de menú principal
 │
+├── docs/
+│   ├── Proyecto_Programacion_de_Computadoresss.pdf  # Documentación del proyecto
+│   ├── Pseudocodigo.pdf               # Pseudocódigo del sistema
+│   └── Diagrama_Flujo.pdf             # Diagrama de flujo del sistema
+│
 └── README.md                         # Este archivo
 ```
 
@@ -73,10 +78,14 @@ Asegúrate de que los archivos estén organizados así:
 Proyecto_Transporte/
 ├── main/
 │   └── sistemaTransporte.py
-└── src/
-    ├── clases.py
-    ├── sistemaPrincipal.py
-    └── menuPrincipal.py
+├── src/
+│   ├── clases.py
+│   ├── sistemaPrincipal.py
+│   └── menuPrincipal.py
+└── docs/
+    ├── Proyecto_Programacion_de_Computadoresss.pdf
+    ├── Pseudocodigo.pdf
+    └── Diagrama_Flujo.pdf
 ```
 
 ## Uso del Sistema
