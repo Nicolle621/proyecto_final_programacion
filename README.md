@@ -45,7 +45,8 @@ Proyecto_Transporte/
 ├── docs/
 │   ├── Proyecto_Programacion_de_Computadoresss.pdf  # Documentación del proyecto
 │   ├── Pseudocodigo.pdf               # Pseudocódigo del sistema
-│   └── Diagrama_Flujo.pdf             # Diagrama de flujo del sistema
+│   ├── Diagrama_Flujo.pdf             # Diagrama de flujo del sistema
+│   └── Presentacion_Diapositivas.pdf  # Diapositivas de presentación del proyecto
 │
 └── README.md                         # Este archivo
 ```
@@ -85,7 +86,8 @@ Proyecto_Transporte/
 └── docs/
     ├── Proyecto_Programacion_de_Computadoresss.pdf
     ├── Pseudocodigo.pdf
-    └── Diagrama_Flujo.pdf
+    ├── Diagrama_Flujo.pdf
+    └── Presentacion_Diapositivas.pdf
 ```
 
 ## Uso del Sistema
